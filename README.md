@@ -9,5 +9,5 @@
 ## Проекты
 | Название  | Ссылка |
 | ------------- | ------------- |
-| Оценить качество работы моделей для задачи МО (возврат клиентов)  | (https://github.com/juliana-zh/ML/blob/main/Prediction_of_user_churn.ipynb)https://github.com/juliana-zh/ML/blob/main/Prediction_of_user_churn.ipynb  |
-| Оценить качество работы моделей для задачи МО (Титаник) | (https://github.com/juliana-zh/ML/blob/main/Titanic.ipynb)https://github.com/juliana-zh/ML/blob/main/Titanic.ipynb  |
+| Оценить качество работы моделей для задачи МО (возврат клиентов)  | https://github.com/juliana-zh/ML/blob/main/Prediction_of_user_churn.ipynb  |
+| Оценить качество работы моделей для задачи МО (Титаник) | https://github.com/juliana-zh/ML/blob/main/Titanic.ipynb  |
