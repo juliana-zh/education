@@ -12,6 +12,6 @@
 | ------------- | ------------- |
 | Оценить качество работы моделей для задачи МО (предсказание возврата клиентов) (2023) | https://github.com/juliana-zh/ML/blob/main/Prediction_of_user_churn.ipynb  |
 | Оценить качество работы моделей для задачи МО (предсказание выживания на Титанике) (2023) | https://github.com/juliana-zh/ML/blob/main/Titanic.ipynb  |
-| Проект «Недвижимость» (BeautifulSoup, Selenium, MySQL, Heroku) (2022) | local |
+| Проект «Недвижимость» (BeautifulSoup, Selenium, MySQL, Heroku) (2022) | - |
 | Сайт «Место» (HTML, CSS, Javascript) (2022) | https://github.com/juliana-zh/mesto-project |
 | Сайт «Путешествие по России» (HTML, CSS, grid) (2021) | https://github.com/juliana-zh/russian-travel |
