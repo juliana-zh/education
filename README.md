@@ -6,6 +6,9 @@
 | Специальные архитектуры нейронных сетей (введение в CNN,RNN,NLP) (2023) | А.Н. Шевляков, доктор физ.-мат наук, с.н.с. Института математики СО РАН | https://stepik.org/cert/2224785  |
 | Web Scraping in Python With BeautifulSoup and Selenium (2022) | Cristopher Zita, Udemy  | [https://stepik.org/cert/2224785](https://www.udemy.com/certificate/UC-011aa82b-81fb-4a01-a0bd-dd949f268910/)  |
 | Уроки изучения Django / Создание сайта на Джанго (2024) | itProger  | https://www.youtube.com/playlist?list=PLDyJYA6aTY1nZ9fSGcsK4wqeu-xaJksQQ |
+| Математика для всех! Авторский курс математики А.В. Савватеевa (2024) | МФТИ | https://stepik.org/cert/2518711 |
+
+
 
 
 ## Проекты
